@@ -1,0 +1,7 @@
+total 32
+drwxrwxr-x 2 jorge-rodrigues jorge-rodrigues  4096 jun 19 17:38 .
+drwxrwxr-x 5 jorge-rodrigues jorge-rodrigues  4096 jun 19 17:03 ..
+-rwxrwxr-x 1 jorge-rodrigues jorge-rodrigues 19000 jun 19 17:38 main
+-rw-rw-r-- 1 jorge-rodrigues jorge-rodrigues  1670 jun 19 17:38 main.c
+-rw-rw-r-- 1 jorge-rodrigues jorge-rodrigues     0 jun 19 17:25 ShellHistory.txt
+/home/jorge-rodrigues/Desktop/2_ano/2_Semestre/Exames/SCOMP/Fichas/1. Processes and exec functions/ex16
